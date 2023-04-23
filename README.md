@@ -12,6 +12,6 @@ This web wedding application is built using Node.js with TypeScript, and follows
 
 
 ## IMAGE:
-![home](https://github.com/TrucPham0502/wedding-nodejs/blob/TypeScript/1.png)
-![Info](https://github.com/TrucPham0502/wedding-nodejs/blob/TypeScript/2.png)
-![card](https://github.com/TrucPham0502/wedding-nodejs/blob/TypeScript/3.png)
+![home](https://github.com/TrucPham0502/Card-Invitation-Wedding/blob/main/1.png)
+![Info](https://github.com/TrucPham0502/Card-Invitation-Wedding/blob/main/2.png)
+![card](https://github.com/TrucPham0502/Card-Invitation-Wedding/blob/main/3.png)
